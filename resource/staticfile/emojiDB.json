@@ -1,0 +1,711 @@
+
+{
+  "EXPS": [
+  {
+    "file": "0",
+    "code": "/::)",
+    "title": "微笑",
+    "reg": /\/::\)/g
+  },
+  {
+    "file": "1",
+    "code": "/::~",
+    "title": "伤心",
+    "reg": /\/::~/g
+  },
+  {
+    "file": "2",
+    "code": "/::B",
+    "title": "美女/色",
+    "reg": /\/::B/g
+  },
+  {
+    "file": "3",
+    "code": "/::|",
+    "title": "发呆",
+    "reg": /\/::\|/g
+  },
+  {
+    "file": "4",
+    "code": "/:8-)",
+    "title": "得意",
+    "reg": /\/:8-\)/g
+  },
+  {
+    "file": "5",
+    "code": "/::<",
+    "title": "流泪",
+    "reg": /\/::</g
+  },
+  {
+    "file": "6",
+    "code": "/::$",
+    "title": "害羞",
+    "reg": /\/::\$/g
+  },
+  {
+    "file": "7",
+    "code": "/::X",
+    "title": "闭嘴",
+    "reg": /\/::X/g
+  },
+  {
+    "file": "8",
+    "code": "/::Z",
+    "title": "睡",
+    "reg": /\/::Z/g
+  },
+  {
+    "file": "9",
+    "code": "/::'(",
+    "title": "大哭",
+    "reg": /\/::'\(/g
+  },
+  {
+    "file": "10",
+    "code": "/::-|",
+    "title": "尴尬",
+    "reg": /\/::-\|/g
+  },
+  {
+    "file": "11",
+    "code": "/::@",
+    "title": "发怒",
+    "reg": /\/::@/g
+  },
+  {
+    "file": "12",
+    "code": "/::P",
+    "title": "调皮",
+    "reg": /\/::P/g
+  },
+  {
+    "file": "13",
+    "code": "/::D",
+    "title": "呲牙",
+    "reg": /\/::D/g
+  },
+  {
+    "file": "14",
+    "code": "/::O",
+    "title": "惊讶",
+    "reg": /\/::O/g
+  },
+  {
+    "file": "15",
+    "code": "/::(",
+    "title": "难过",
+    "reg": /\/::\(/g
+  },
+  {
+    "file": "16",
+    "code": "/::+",
+    "title": "酷",
+    "reg": /\/::\+/g
+  },
+  {
+    "file": "17",
+    "code": "/:--b",
+    "title": "冷汗",
+    "reg": /\/:--b/g
+  },
+  {
+    "file": "18",
+    "code": "/::Q",
+    "title": "抓狂",
+    "reg": /\/::Q/g
+  },
+  {
+    "file": "19",
+    "code": "/::T",
+    "title": "吐",
+    "reg": /\/::T/g
+  },
+  {
+    "file": "20",
+    "code": "/:,@P",
+    "title": "偷笑",
+    "reg": /\/:,@P/g
+  },
+  {
+    "file": "21",
+    "code": "/:,@-D",
+    "title": "愉快",
+    "reg": /\/:,@-D/g
+  },
+  {
+    "file": "22",
+    "code": "/::d",
+    "title": "白眼",
+    "reg": /\/::d/g
+  },
+  {
+    "file": "23",
+    "code": "/:,@o",
+    "title": "傲慢",
+    "reg": /\/:,@o/g
+  },
+  {
+    "file": "24",
+    "code": "/::g",
+    "title": "饥饿",
+    "reg": /\/::g/g
+  },
+  {
+    "file": "25",
+    "code": "/:|-)",
+    "title": "困",
+    "reg": /\/:\|-\)/g
+       
+  },
+  {
+    "file": "26",
+    "code": "/::!",
+    "title": "惊恐",
+    "reg": /\/::!/g
+       
+  },
+  {
+    "file": "27",
+    "code": "/::L",
+    "title": "流汗",
+    "reg": /\/::L/g
+       
+  },
+  {
+    "file": "28",
+    "code": "/::>",
+    "title": "憨笑",
+    "reg": /\/::>/g
+       
+  },
+  {
+    "file": "29",
+    "code": "/::,@",
+    "title": "悠闲",
+    "reg": /\/::,@/g
+       
+  },
+  {
+    "file": "30",
+    "code": "/:,@f",
+    "title": "奋斗",
+    "reg": /\/:,@f/g
+       
+  },
+  {
+    "file": "31",
+    "code": "/::-S",
+    "title": "咒骂",
+    "reg": /\/::-S/g
+       
+  },
+  {
+    "file": "32",
+    "code": "/:?",
+    "title": "疑问",
+    "reg": /\/:\?/g
+       
+  },
+  {
+    "file": "33",
+    "code": "/:,@x",
+    "title": "嘘",
+    "reg": /\/:,@x/g
+       
+  },
+  {
+    "file": "34",
+    "code": "/:,@@",
+    "title": "晕",
+    "reg": /\/:,@@/g
+       
+  },
+  {
+    "file": "35",
+    "code": "/::8",
+    "title": "疯了",
+    "reg": /\/::8/g
+       
+  },
+  {
+    "file": "36",
+    "code": "/:,@!",
+    "title": "哀",
+    "reg": /\/:,@!/g
+       
+  },
+  {
+    "file": "37",
+    "code": "/:!!!",
+    "title": "骷髅",
+    "reg": /\/:!!!/g
+       
+  },
+  {
+    "file": "38",
+    "code": "/:xx",
+    "title": "敲打",
+    "reg": /\/:xx/g
+       
+  },
+  {
+    "file": "39",
+    "code": "/:bye",
+    "title": "再见",
+    "reg": /\/:bye/g
+       
+  },
+  {
+    "file": "40",
+    "code": "/:wipe",
+    "title": "擦汗",
+    "reg": /\/:wipe/g
+       
+  },
+  {
+    "file": "41",
+    "code": "/:dig",
+    "title": "抠鼻",
+    "reg": /\/:dig/g
+       
+  },
+  {
+    "file": "42",
+    "code": "/:handclap",
+    "title": "鼓掌",
+    "reg": /\/:handclap/g
+       
+  },
+  {
+    "file": "43",
+    "code": "/:&-(",
+    "title": "糗大了",
+    "reg": /\/:&-\(/g
+       
+  },
+  {
+    "file": "44",
+    "code": "/:B-)",
+    "title": "坏笑",
+    "reg": /\/:B-\)/g
+       
+  },
+  {
+    "file": "45",
+    "code": "/:<@",
+    "title": "左哼哼",
+    "reg": /\/:<@/g
+       
+  },
+  {
+    "file": "46",
+    "code": "/:@>",
+    "title": "右哼哼",
+    "reg": /\/:@>/g
+       
+  },
+  {
+    "file": "47",
+    "code": "/::-O",
+    "title": "哈欠",
+    "reg": /\/::-O/g
+       
+  },
+  {
+    "file": "48",
+    "code": "/:>-|",
+    "title": "鄙视",
+    "reg": /\/:>-\|/g
+       
+  },
+  {
+    "file": "49",
+    "code": "/:P-(",
+    "title": "委屈",
+    "reg": /\/:P-\(/g
+       
+  },
+  {
+    "file": "50",
+    "code": "/::'|",
+    "title": "快哭了",
+    "reg": /\/::'\|/g
+       
+  },
+  {
+    "file": "51",
+    "code": "/:X-)",
+    "title": "阴险",
+    "reg": /\/:X-\)/g
+       
+  },
+  {
+    "file": "52",
+    "code": "/::*",
+    "title": "亲亲",
+    "reg": /\/::\*/g
+       
+  },
+  {
+    "file": "53",
+    "code": "/:@x",
+    "title": "吓",
+    "reg": /\/:@x/g
+       
+  },
+  {
+    "file": "54",
+    "code": "/:8*",
+    "title": "可怜",
+    "reg": /\/:8\*/g
+       
+  },
+  {
+    "file": "55",
+    "code": "/:pd",
+    "title": "菜刀",
+    "reg": /\/:pd/g
+       
+  },
+  {
+    "file": "56",
+    "code": "/:<W>",
+    "title": "西瓜",
+    "reg": /\/:<W>/g
+       
+  },
+  {
+    "file": "57",
+    "code": "/:beer",
+    "title": "啤酒",
+    "reg": /\/:beer/g
+       
+  },
+  {
+    "file": "58",
+    "code": "/:basketb",
+    "title": "篮球",
+    "reg": /\/:basketb/g
+       
+  },
+  {
+    "file": "59",
+    "code": "/:oo",
+    "title": "乒乓",
+    "reg": /\/:oo/g
+       
+  },
+  {
+    "file": "60",
+    "code": "/:coffee",
+    "title": "咖啡",
+    "reg": /\/:coffee/g
+       
+  },
+  {
+    "file": "61",
+    "code": "/:eat",
+    "title": "饭",
+    "reg": /\/:eat/g
+       
+  },
+  {
+    "file": "62",
+    "code": "/:pig",
+    "title": "猪头",
+    "reg": /\/:pig/g
+       
+  },
+  {
+    "file": "63",
+    "code": "/:rose",
+    "title": "玫瑰",
+    "reg": /\/:rose/g
+       
+  },
+  {
+    "file": "64",
+    "code": "/:fade",
+    "title": "凋谢",
+    "reg": /\/:fade/g
+       
+  },
+  {
+    "file": "65",
+    "code": "/:showlove",
+    "title": "嘴唇",
+    "reg": /\/:showlove/g
+       
+  },
+  {
+    "file": "66",
+    "code": "/:heart",
+    "title": "爱心",
+    "reg": /\/:heart/g
+       
+  },
+  {
+    "file": "67",
+    "code": "/:break",
+    "title": "心碎",
+    "reg": /\/:break/g
+       
+  },
+  {
+    "file": "68",
+    "code": "/:cake",
+    "title": "蛋糕",
+    "reg": /\/:cake/g
+       
+  },
+  {
+    "file": "69",
+    "code": "/:li",
+    "title": "闪电",
+    "reg": /\/:li/g
+       
+  },
+  {
+    "file": "70",
+    "code": "/:bome",
+    "title": "炸弹",
+    "reg": /\/:bome/g
+  },
+  {
+    "file": "71",
+    "code": "/:kn",
+    "title": "刀",
+    "reg": /\/:kn/g
+  },
+  {
+    "file": "72",
+    "code": "/:footb",
+    "title": "足球",
+    "reg": /\/:footb/g
+       
+  },
+  {
+    "file": "73",
+    "code": "/:ladybug",
+    "title": "瓢虫",
+    "reg": /\/:ladybug/g
+       
+  },
+  {
+    "file": "74",
+    "code": "/:shit",
+    "title": "便便",
+    "reg": /\/:shit/g
+       
+  },
+  {
+    "file": "75",
+    "code": "/:moon",
+    "title": "月亮",
+    "reg": /\/:moon/g
+       
+  },
+  {
+    "file": "76",
+    "code": "/:sun",
+    "title": "太阳",
+    "reg": /\/:sun/g
+       
+  },
+  {
+    "file": "77",
+    "code": "/:gift",
+    "title": "礼物",
+    "reg": /\/:gift/g
+       
+  },
+  {
+    "file": "78",
+    "code": "/:hug",
+    "title": "拥抱",
+    "reg": /\/:hug/g
+       
+  },
+  {
+    "file": "79",
+    "code": "/:strong",
+    "title": "强",
+    "reg": /\/:strong/g
+       
+  },
+  {
+    "file": "80",
+    "code": "/:weak",
+    "title": "弱",
+    "reg": /\/:weak/g
+       
+  },
+  {
+    "file": "81",
+    "code": "/:share",
+    "title": "握手",
+    "reg": /\/:share/g
+       
+  },
+  {
+    "file": "82",
+    "code": "/:v",
+    "title": "胜利",
+    "reg": /\/:v/g
+       
+  },
+  {
+    "file": "83",
+    "code": "/:@)",
+    "title": "抱拳",
+    "reg": /\/:@\)/g
+       
+  },
+  {
+    "file": "84",
+    "code": "/:jj",
+    "title": "勾引",
+    "reg": /\/:jj/g
+       
+  },
+  {
+    "file": "85",
+    "code": "/:@@",
+    "title": "拳头",
+    "reg": /\/:@@/g
+       
+  },
+  {
+    "file": "86",
+    "code": "/:bad",
+    "title": "差劲",
+    "reg": /\/:bad/g
+       
+  },
+  {
+    "file": "87",
+    "code": "/:lvu",
+    "title": "爱你",
+    "reg": /\/:lvu/g
+       
+  },
+  {
+    "file": "88",
+    "code": "/:no",
+    "title": "NO",
+    "reg": /\/:no/g
+       
+  },
+  {
+    "file": "89",
+    "code": "/:ok",
+    "title": "OK",
+    "reg": /\/:ok/g
+       
+  },
+  {
+    "file": "90",
+    "code": "/:love",
+    "title": "爱情",
+    "reg": /\/:love/g
+       
+  },
+  {
+    "file": "91",
+    "code": "/:<L>",
+    "title": "飞吻",
+    "reg": /\/:<L>/g
+       
+  },
+  {
+    "file": "92",
+    "code": "/:jump",
+    "title": "跳跳",
+    "reg": /\/:jump/g
+       
+  },
+  {
+    "file": "93",
+    "code": "/:shake",
+    "title": "发抖",
+    "reg": /\/:shake/g
+       
+  },
+  {
+    "file": "94",
+    "code": "/:<O>",
+    "title": "怄火",
+    "reg": /\/:<O>/g
+       
+  },
+  {
+    "file": "95",
+    "code": "/:circle",
+    "title": "转圈",
+    "reg": /\/:circle/g
+       
+  },
+  {
+    "file": "96",
+    "code": "/:kotow",
+    "title": "磕头",
+    "reg": /\/:kotow/g
+       
+  },
+  {
+    "file": "97",
+    "code": "/:turn",
+    "title": "回头",
+    "reg": /\/:turn/g
+       
+  },
+  {
+    "file": "98",
+    "code": "/:skip",
+    "title": "跳绳",
+    "reg": /\/:skip/g
+       
+  },
+  {
+    "file": "99",
+    "code": "/:oY",
+    "title": "投降",
+    "reg": /\/:oY/g
+       
+  },
+  {
+    "file": "100",
+    "code": "/:#-0",
+    "title": "激动",
+    "reg": /\/:\#-0/g
+       
+  },
+  {
+    "file": "101",
+    "code": "/:hiphot",
+    "title": "乱舞",
+    "reg": /\/:hiphot/g
+       
+  },
+  {
+    "file": "102",
+    "code": "/:kiss",
+    "title": "献吻",
+    "reg": /\/:kiss/g
+       
+  },
+  {
+    "file": "103",
+    "code": "/:<&",
+    "title": "左太极" ,
+    "reg": /\/:<\&/g  
+  },
+  {
+    "file": "104",
+    "code": "/:&>",
+    "title": "右太极",
+    "reg": /\/:\&>/g  
+  }
+]
+}

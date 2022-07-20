@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21096f"],{b913:function(t,e,n){"use strict";n.r(e),n.d(e,"getdata",(function(){return r}));var o=n("b775");function r(t){return Object(o["b"])({url:"developer/apidoc/getlist",method:"get",params:t})}}}]);

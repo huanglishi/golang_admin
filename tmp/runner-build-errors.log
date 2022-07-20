@@ -1,0 +1,2 @@
+# basegin
+.\main.go:5:2: imported and not used: "basegin/routers"
