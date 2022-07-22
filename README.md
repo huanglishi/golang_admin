@@ -8,6 +8,7 @@ Golang语言的最大优势就是执行速度和开发效率都很出色，而�
 - **技术栈**： gin、thinphp5.1,
 - **api验证**： Jwt验证,
 - **ORM**： gorose,
+- **数据库**：Mysql8,
 
 
 ## Go程序命令
@@ -19,6 +20,11 @@ bee run
 ```
 go build main.go
 ```
+### 需要数据库sql文件请联系
+```
+微信：taijidao101
+```
+
 
 <p align="center">
     <img alt="VbenAdmin Logo" width="100%" src="https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220723/1658512813_%E5%B9%B3%E5%8F%B0_20220723015331.png">
