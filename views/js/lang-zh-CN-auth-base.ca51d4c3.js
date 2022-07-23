@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-zh-CN-auth-base"],{"5b75":function(u,a,t){"use strict";t.r(a),a["default"]={"auth.authgroup":"权限管理","menu.auth.authgroup":"角色组","menu.auth.authrule":"菜单规则","menu.auth.authuser":"账号管理"}}}]);

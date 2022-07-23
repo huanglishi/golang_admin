@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-zh-CN-login"],{"00c3":function(n,o,s){"use strict";s.r(o),o["default"]={"user.login":"登录","user.login.account":"登录账号","user.login.password":"登录密码"}}}]);
