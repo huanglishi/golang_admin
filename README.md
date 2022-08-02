@@ -33,6 +33,8 @@ go build main.go
 <p align="center">
      多网站管理
     <img alt="VbenAdmin Logo" width="100%" src="https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220723/1658512813_%E5%B9%B3%E5%8F%B0_20220723015331.png">
+     平台管理
     <img alt="VbenAdmin Logo" width="100%" src="https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220723/1658512803_%E5%B9%B3%E5%8F%B0_20220723015204.png">
+     商品管理
     <img alt="VbenAdmin Logo" width="100%" src="https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220723/1658512762_%E5%B9%B3%E5%8F%B0_20220723015351.png">
 </p>
